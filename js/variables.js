@@ -1,0 +1,13 @@
+const age = 12;
+console.log(age);
+const name = "Anna";
+console.log(name);
+const isStudent = true;
+console.log(isStudent);
+const myString = "'- After all this time. - Always.'";
+console.log(myString);
+const myNumber = 6;
+const number = myNumber + 10;
+console.log(number);
+const myNull = null;
+console.log(myNull);
